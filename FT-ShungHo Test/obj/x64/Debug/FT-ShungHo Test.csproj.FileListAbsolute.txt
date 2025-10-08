@@ -1,0 +1,37 @@
+C:\Users\P51\OneDrive\Máy tính\Debug\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.exe
+C:\Users\P51\OneDrive\Máy tính\Debug\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.pdb
+C:\Users\P51\OneDrive\Máy tính\Debug\New folder\FT-ShungHo Test\bin\Debug\HVLModbus.dll
+C:\Users\P51\OneDrive\Máy tính\Debug\New folder\FT-ShungHo Test\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\P51\OneDrive\Máy tính\Debug\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.AssemblyReference.cache
+C:\Users\P51\OneDrive\Máy tính\Debug\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.CoreCompileInputs.cache
+C:\Users\P51\OneDrive\Máy tính\Debug\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.CopyComplete
+C:\Users\P51\OneDrive\Máy tính\Debug\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.exe
+C:\Users\P51\OneDrive\Máy tính\Debug\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.pdb
+C:\Users\G\Desktop\Code1\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.exe
+C:\Users\G\Desktop\Code1\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.pdb
+C:\Users\G\Desktop\Code1\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.AssemblyReference.cache
+C:\Users\G\Desktop\Code1\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.CoreCompileInputs.cache
+C:\Users\G\Desktop\Code1\New folder\FT-ShungHo Test\obj\x64\Debug\FT-Shung.B4F7F22E.Up2Date
+C:\Users\G\Desktop\Code1\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.exe
+C:\Users\G\Desktop\Code1\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.pdb
+C:\Users\G\Desktop\OCP SCP code (1)\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.exe
+C:\Users\G\Desktop\OCP SCP code (1)\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.pdb
+C:\Users\G\Desktop\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.AssemblyReference.cache
+C:\Users\G\Desktop\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.CoreCompileInputs.cache
+C:\Users\G\Desktop\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-Shung.B4F7F22E.Up2Date
+C:\Users\G\Desktop\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.exe
+C:\Users\G\Desktop\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.pdb
+C:\Users\G\Desktop\program epower\OCP SCP code (1)\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.exe
+C:\Users\G\Desktop\program epower\OCP SCP code (1)\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.pdb
+C:\Users\G\Desktop\program epower\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.AssemblyReference.cache
+C:\Users\G\Desktop\program epower\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.CoreCompileInputs.cache
+C:\Users\G\Desktop\program epower\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-Shung.B4F7F22E.Up2Date
+C:\Users\G\Desktop\program epower\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.exe
+C:\Users\G\Desktop\program epower\OCP SCP code (1)\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.pdb
+C:\Users\quyqu\OneDrive\Máy tính\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.exe
+C:\Users\quyqu\OneDrive\Máy tính\New folder\FT-ShungHo Test\bin\Debug\FT-ShungHo Test.pdb
+C:\Users\quyqu\OneDrive\Máy tính\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.AssemblyReference.cache
+C:\Users\quyqu\OneDrive\Máy tính\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.csproj.CoreCompileInputs.cache
+C:\Users\quyqu\OneDrive\Máy tính\New folder\FT-ShungHo Test\obj\x64\Debug\FT-Shung.B4F7F22E.Up2Date
+C:\Users\quyqu\OneDrive\Máy tính\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.exe
+C:\Users\quyqu\OneDrive\Máy tính\New folder\FT-ShungHo Test\obj\x64\Debug\FT-ShungHo Test.pdb
